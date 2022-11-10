@@ -1,1 +1,2 @@
-# Particle-Swarm-Algorithm-for-N-Queen-and-N-Knight-Problem
+# Acknowledgement
+Model of N-Queen Problem is contributed by:
