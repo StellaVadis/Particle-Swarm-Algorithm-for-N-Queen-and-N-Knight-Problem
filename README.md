@@ -10,4 +10,7 @@ Y. -R. Wang, H. -L. Lin and L. Yang, "Swarm Refinement PSO for Solving N-queens 
 N-Queen Problem: How much compatible Queens can be placed on an NxN chessboard. (compatible: No one is under attack of others). \
 N-Knight Problem: How much compatible Knights can be placed on an NxN chessboard (compatible: No one is under attack of others). \
 The task is to find the maximum compatible queens or knights with Particle Swarm Algorithm (PSO). \
-In reality, the N-Queen Problem can be solved by Backtracking Algorithm, while the N-Knight Problem can be solved by observations and proved by induction.\
+In reality, the N-Queen Problem can be solved by Backtracking Algorithm, while the N-Knight Problem can be solved by observations and proved by induction.
+# Manual of Codes
+Users could run two jupyter notebooks directly, to recover the results as displayed. \
+If you are interested in the details and processes of the algorithm, please review the report 'PSO_knight_queen_report.pdf'.
