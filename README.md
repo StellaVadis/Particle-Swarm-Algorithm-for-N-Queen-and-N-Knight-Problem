@@ -5,7 +5,7 @@ Codes of N-Queen Problem: Zhanpeng Li, Deyi Zeng \
 Model of N-Knight Problem: Deyi Zeng \
 Codes of N-Knight Problem: Deyi Zeng 
 # Reference
-Y. -R. Wang, H. -L. Lin and L. Yang, "Swarm Refinement PSO for Solving N-queens Problem," 2012 Third International Conference on Innovations in Bio-Inspired Computing and Applications, 2012, pp. 29-33, doi: 10.1109/IBICA.2012.43.
+[1] Y. -R. Wang, H. -L. Lin and L. Yang, "Swarm Refinement PSO for Solving N-queens Problem," 2012 Third International Conference on Innovations in Bio-Inspired Computing and Applications, 2012, pp. 29-33, doi: 10.1109/IBICA.2012.43.
 # Problem Statement
 N-Queen Problem: How much compatible Queens can be placed on an NxN chessboard. (compatible: No one is under attack of others). \
 N-Knight Problem: How much compatible Knights can be placed on an NxN chessboard (compatible: No one is under attack of others). \
